@@ -8,6 +8,8 @@ Please make sure your development environment is matched.
 ![image](https://github.com/user-attachments/assets/f98240ab-ebd6-4a4a-b7e1-8de8cac322de)
 
 If you need to execute that example, it must be done in conjunction with【edge.ai.jetson.orin.sdk】.
+Please download the model and unzip the files in the corresponding directory. 
+The 【model_path】 in the Python file needs to be modified to the corresponding directory.
 
 # Execution Screenshot
 ![Person](https://github.com/user-attachments/assets/6e26097a-942d-40f2-8153-de9aaba412e4)
